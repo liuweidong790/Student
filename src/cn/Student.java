@@ -10,6 +10,7 @@ public class Student {
     
     public static void getNum(){
         System.out.print("你好");
+        System.out.ptint("还好");
     }
         
 
