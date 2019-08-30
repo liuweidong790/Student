@@ -7,5 +7,10 @@ public class Student {
 
         System.out.println("this is my house");
     }
+    
+    public static void getNum(){
+        System.out.printIn("你好");
+    }
+        
 
 }
